@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(anypoint-exchange:list-objects) -->
+    <anypoint-exchange:list-objects config-ref="" pageSize="10" pageNumber="0" searchQuery="" />
+<!-- END_INCLUDE(anypoint-exchange:list-objects) -->
